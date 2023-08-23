@@ -10,7 +10,7 @@ function increment() {
 function saver() {
     let saverString =  count + " - "
     saveInfo.textContent += saverString
-    counter.textContentv = 0
+    counter.textContent = 0
     count = 0
 }
 
